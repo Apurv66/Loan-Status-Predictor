@@ -36,3 +36,7 @@ This project demonstrates the **end-to-end ML pipeline**:
 - **Streamlit** → web app interface  
 - **pickle** → saving models & encoders  
 
+---
+## Screenshots
+<img width="400" height="250" alt="Screenshot 2025-09-28 111225" src="https://github.com/user-attachments/assets/e77b4f52-0e88-4dd2-aeb7-6c8e5790458f" />
+<img width="400" height="250" alt="Screenshot 2025-09-28 111333" src="https://github.com/user-attachments/assets/7028c2de-26ec-4ef4-9012-158b406ba1c7" />
